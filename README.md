@@ -7,16 +7,6 @@ I'm a passionate **Business Analytics & IT student** at Tunis Business School wi
 - **Business process optimization** through tech-driven solutions  
 - **Public speaking and team leadership** through active involvement in events and MUNs  
 
-💼 Experience includes:
-- Interning at **IP-LABEL EKARA** in the Customer Success Team  
-- Leading **debating and training teams** in student organizations like JCI-TBS and TIMUN  
-- Co-organizing impactful events and guiding student orientation programs  
-
-🏆 Highlights:
-- 🥈 2nd place winner of **TBS Startup Nation (TSN)**  
-- 🌍 Selected for **MWTO Geneva, Switzerland**  
-- 🇺🇸 Alumni of **Soliya Connect Program** (US Embassy cultural exchange)  
-
 📚 Tech & Tools:
 `Python` | `R` | `MySQL` | `Excel` | `Power BI` | `Linux`
 
